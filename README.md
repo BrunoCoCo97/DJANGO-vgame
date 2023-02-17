@@ -1,5 +1,6 @@
-#### DJASONvgame
-CREAR PROYECTO EN DJANGO
+# DJASONvgame
+
+## CREAR PROYECTO EN DJANGO
 #### Paso 1
 Crear un directorio – mkdir <nombre directorio>
 #### Paso 2
